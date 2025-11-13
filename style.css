@@ -1,55 +1,24 @@
 
 .box {
     padding: 10px 5px;
+    background-color: plum;
 }
 
 
-.elements {
-    display: block;
-    font-weight: bold;
-}
+.article-h1{
 
-.s1 {
-    font-size: xx-large;
-}
-
-.s2 {
-    font-size: xxx-large;
-    margin: 10px 0;
-    background-color: powderblue;
-}
-
-.s3 {
-    background-color: lightgreen;
-    font-size: larger;
-}
-
-.menu-link {
-    display: inline;
-    color: blue;
-    text-decoration: 1px solid blue underline;
-    padding: 5px;
 }
 
 
-.products {
-    display: inline-block;
-    height: 300px;
-    width: 200px;
-    margin: 20px 10px;
+.article-p2{
+    clear: both;
     text-align: center;
-    padding-top: 10px;
+    width: 150px;
 }
 
-.p1 {
-    background-color: yellowgreen;
-}
-
-
-.p2 {
-    background-color: crimson;
-}
-
-.p3 {
-    background-color: powderblue;
+.article-img{
+    float: left;
+    height: 200px;
+    width: 150px;
+    margin: 0 15px 2px 0;
 }
